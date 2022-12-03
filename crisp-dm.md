@@ -113,7 +113,7 @@ Dans une implémentation en cascade, le travail de l'équipe s'étendrait de man
 
 Alternativement, dans une mise en œuvre agile de CRISP-DM, l'équipe se concentrerait étroitement sur la livraison rapide d'une tranche verticale de la chaîne de valeur à la fois, comme indiqué ci-dessous. Ils fourniraient plusieurs versions verticales plus petites et solliciteraient fréquemment des commentaires en cours de route.
 
-![CRISP-DM Agile](crisp-dm-vertical-agile-600px)
+![CRISP-DM Agile](crisp-dm-vertical-agile-600px.gif)
 
 **Ce qui est mieux ?**
 
